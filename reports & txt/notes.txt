@@ -1,0 +1,3 @@
+Open ports: 21,22,80
+Running services: Vsftpd, OpenSSH, Apache httpd
+Version info: vsftpd 2.3.4, OpenSSH 4.7p1
